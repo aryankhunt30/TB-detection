@@ -1,0 +1,6 @@
+streamlit
+Pillow==8.1.1
+tensorflow-cpu
+numpy
+pytest-shutil
+python==3.10
