@@ -19,7 +19,6 @@ A CNN model that can classify X-Ray images as a <b>Tuberculosis case or a Normal
 - Dataset
 - Motivation
 - Table of contents
-- Installation
 - Contribute
 
 
@@ -31,15 +30,6 @@ Click [here](https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-da
 # Motivation
 In this century where everything is at our fingertips, why wait in a long queue to get your X-rays scanned by a radiologist? Especially to find out if you or your loved ones are affected by a serious disease like Tuberculosis? Not anymore, we’ve developed a system that brings radiologists to your fingertips!
 
-
-
-# Installation
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/jith4j/Tuberculosis-Classification.git```
 
 
 # Contribute
